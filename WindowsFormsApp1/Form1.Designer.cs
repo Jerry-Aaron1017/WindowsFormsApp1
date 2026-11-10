@@ -62,7 +62,6 @@
             this.Controls.Add(this.RUN);
             this.Name = "frmTrackThread";
             this.Text = "frmTrackThread";
-            CenterToScreen();
             this.ResumeLayout(false);
             this.PerformLayout();
         }
